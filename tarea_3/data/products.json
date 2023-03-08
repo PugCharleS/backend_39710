@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1 ",
+    "description": "descripción del producto",
+    "price": 150,
+    "thumbnail": "https://via.placeholder.com/150",
+    "code": "P001",
+    "stock": 20
+  },
+  {
+    "id": 2,  
+    "title": "Producto 2",
+    "description": "Descripción",
+    "price": 300,
+    "thumbnail": "https://via.placeholder.com/200",
+    "code": "P001",
+    "stock": 10
+  }
+]

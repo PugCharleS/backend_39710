@@ -1,0 +1,19 @@
+{
+  "name": "tarea_3",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon -e 'js,html' ."
+  },
+  "author": "Carlos Solis",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
